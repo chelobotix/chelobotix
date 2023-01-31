@@ -1,6 +1,9 @@
 # <img src="./images/1.gif" alt=""> Hey! I'm Marcelo Alarcon and my nickname is:
 <img src="./images/chelobotix_logo.png" alt="">
 
+<p align="center">
+  <img src="https://github.com/chelobotix/chelobotix/blob/main/images/Software%20Engineer.gif" alt="">
+</p>
 
 
 
