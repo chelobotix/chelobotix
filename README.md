@@ -2,7 +2,16 @@
 <img src="./images/chelobotix_logo.png" alt="">
 
 <p align="center">
-  <img src="https://github.com/chelobotix/chelobotix/blob/main/images/Software%20Engineer.gif" alt="">
+  <img src="./images/Hire_me.gif" alt="">
+</p>
+
+<p align="center">
+  
+  
+ Please, visit my Portfolio here [Portfolio](https://chelobotix.github.io/Portafolio-Website/)
+  
+  
+  
 </p>
 
 
