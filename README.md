@@ -9,13 +9,22 @@
 Please, visit my Portfolio here https://chelobotix.github.io/Portafolio-Website/
 </p>
 
+## 🧑‍💼 My Portfolio
+
+https://chelobotix.github.io/Portafolio-Website/
 
 
-####  :seedling: I’m currently learning Full Stack Developer with React and Ruby on Rails
+## About me
 
-#### 👯 I’m looking to collaborate on Open Source Projects
+##### 📍 Location : Bolivia - South America 
 
-#### :fire: I’m looking for new opportunities
+##### 📜 Degree / Job Title : Software Engineer / Full Stack Developer 
+
+#####  :seedling: I’m currently learning Full Stack Developer with React and Ruby on Rails
+
+##### 👯 I’m looking to collaborate on Open Source Projects
+
+##### :fire: I’m looking for new opportunities
 
 
 ## 🌐 Socials:
