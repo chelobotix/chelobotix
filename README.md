@@ -5,13 +5,8 @@
   <img src="./images/Hire_me.gif" alt="">
 </p>
 
-<p align="center">
-  
-  
- Please, visit my Portfolio here [Portfolio](https://chelobotix.github.io/Portafolio-Website/)
-  
-  
-  
+<p align="right">
+Please, visit my Portfolio here https://chelobotix.github.io/Portafolio-Website/
 </p>
 
 
