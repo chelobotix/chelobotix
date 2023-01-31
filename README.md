@@ -11,7 +11,7 @@ Please, visit my Portfolio here https://chelobotix.github.io/Portafolio-Website/
 
 ## 🧑‍💼 My Portfolio
 
-https://chelobotix.github.io/Portafolio-Website/
+[Find my Skills](https://chelobotix.github.io/Portafolio-Website/)
 
 
 ## About me
@@ -28,7 +28,7 @@ https://chelobotix.github.io/Portafolio-Website/
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marceloalarconb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@marceloalarconbarrenechea) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/marcealarconb) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marceloalarconb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@marceloalarconbarrenechea) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/marcealarconb) 
 
 
 <img src="./images/2.gif" alt="">
