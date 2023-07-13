@@ -1,11 +1,15 @@
-# <img src="./images/1.gif" alt=""> Hey! I'm Marcelo Alarcon
-<p align="center">
-  <img src="https://github.com/chelobotix/chelobotix/assets/65084923/9b29814e-ce9a-458f-a1e3-d71407478ca4" alt="">
-</p>
+<div>
+<img src="https://github.com/chelobotix/chelobotix/assets/65084923/80448a47-27e7-47bc-9e39-c0837a8e86b2" alt="" width="50px"> 
+<br>
 
-<p align="right">
-Please, visit my Portfolio here https://chelobotix.github.io/Portafolio-Website/
-</p>
+## Hey! I'm Marcelo Alarcon
+
+</div>
+
+
+<div>
+<img src="https://github.com/chelobotix/chelobotix/assets/65084923/9b29814e-ce9a-458f-a1e3-d71407478ca4" alt="" width="300px"> 
+</div>
 
 ## 🧑‍💼 My Portfolio
 
@@ -17,8 +21,6 @@ Please, visit my Portfolio here https://chelobotix.github.io/Portafolio-Website/
 ##### 📍 Location : Bolivia - South America 
 
 ##### 📜 Degree / Job Title : Software Engineer / Full Stack Developer 
-
-#####  :seedling: I’m currently learning Full Stack Developer with React and Ruby on Rails
 
 ##### 👯 I’m looking to collaborate on Open Source Projects
 
